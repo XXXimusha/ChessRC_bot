@@ -4,7 +4,7 @@ import json
 import os
 
 # === Настройки ===
-TOKEN = '7365948334:AAH8cDVwQk5GYtjSIpzsfuzi423kOf93ATs'  
+TOKEN = '8087881980:AAGXeLvTyjDqkpce-V6vbE4ozMFzB-zSLoM'  
 DATA_FILE = 'profile_data.json'
 
 bot = telebot.TeleBot(TOKEN)
